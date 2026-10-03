@@ -3,23 +3,103 @@
     "width": 1122,
     "height": 1402
   },
-  "natural": {
+  "gimhae-natural": {
     "width": 1254,
     "height": 1254
   },
-  "combo": {
+  "gimhae-combo": {
     "width": 1254,
     "height": 1254
   },
-  "embossed": {
+  "gimhae-embossed": {
     "width": 1254,
     "height": 1254
   },
-  "men": {
+  "gimhae-men": {
     "width": 1254,
     "height": 1254
   },
-  "powder": {
+  "gimhae-powder": {
+    "width": 1254,
+    "height": 1254
+  },
+  "cheongju-natural": {
+    "width": 1254,
+    "height": 1254
+  },
+  "cheongju-combo": {
+    "width": 1254,
+    "height": 1254
+  },
+  "cheongju-embossed": {
+    "width": 1254,
+    "height": 1254
+  },
+  "cheongju-men": {
+    "width": 1254,
+    "height": 1254
+  },
+  "cheongju-powder": {
+    "width": 1254,
+    "height": 1254
+  },
+  "changwon-natural": {
+    "width": 1254,
+    "height": 1254
+  },
+  "changwon-combo": {
+    "width": 1254,
+    "height": 1254
+  },
+  "changwon-embossed": {
+    "width": 1254,
+    "height": 1254
+  },
+  "changwon-men": {
+    "width": 1254,
+    "height": 1254
+  },
+  "changwon-powder": {
+    "width": 1254,
+    "height": 1254
+  },
+  "suwon-natural": {
+    "width": 1254,
+    "height": 1254
+  },
+  "suwon-combo": {
+    "width": 1254,
+    "height": 1254
+  },
+  "suwon-embossed": {
+    "width": 1254,
+    "height": 1254
+  },
+  "suwon-men": {
+    "width": 1254,
+    "height": 1254
+  },
+  "suwon-powder": {
+    "width": 1254,
+    "height": 1254
+  },
+  "seoul-natural": {
+    "width": 1254,
+    "height": 1254
+  },
+  "seoul-combo": {
+    "width": 1254,
+    "height": 1254
+  },
+  "seoul-embossed": {
+    "width": 1254,
+    "height": 1254
+  },
+  "seoul-men": {
+    "width": 1254,
+    "height": 1254
+  },
+  "seoul-powder": {
     "width": 1254,
     "height": 1254
   }

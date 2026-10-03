@@ -1,0 +1,131 @@
+{
+  "tool": "built-in image_gen",
+  "common": "Photorealistic original fictional Korean adult eyebrow design photograph; square; both full eyebrows visible; natural light, skin pores, subtle asymmetry; no text, logo, watermark, collage, tools or before-after.",
+  "assets": [
+    {
+      "id": "gimhae-natural",
+      "subject": "woman 32, long oval face, monolid eyes, slight freckles, pulled dark hair",
+      "style": "natural sparse brown individual hairs, soft straight brow"
+    },
+    {
+      "id": "gimhae-combo",
+      "subject": "woman 27, round face, medium double-lidded almond eyes, dark chestnut tied hair, warm medium skin",
+      "style": "combo brows with fine hairstrokes at front and soft shading toward softly angled tails"
+    },
+    {
+      "id": "gimhae-embossed",
+      "subject": "woman 43, narrow face, small monolid eyes, black side-part hair, light olive skin and faint eye lines",
+      "style": "hair-stroke brows with widely spaced individual tapered strokes, flat arch"
+    },
+    {
+      "id": "gimhae-men",
+      "subject": "man 36, broad face, deep-set narrow eyes, short black crew cut, tan skin, slight stubble",
+      "style": "masculine thick straight dark brows, individual coarse hairs, subtle asymmetric arch"
+    },
+    {
+      "id": "gimhae-powder",
+      "subject": "woman 35, heart-shaped face, large hooded eyes, auburn hair pulled back, pale beige skin",
+      "style": "soft taupe powder brows, gradual light-to-dark gradient and rounded low arch"
+    },
+    {
+      "id": "cheongju-natural",
+      "subject": "woman 25, petite round face, narrow monolid eyes, black bob tucked behind ears, medium warm skin",
+      "style": "natural airy straight eyebrows with soft black individual hairs"
+    },
+    {
+      "id": "cheongju-combo",
+      "subject": "woman 39, high cheekbones, long almond eyes, brown side swept hair, beige skin with small moles",
+      "style": "combo brows with medium brown hairlike front and filled gently raised arch"
+    },
+    {
+      "id": "cheongju-embossed",
+      "subject": "woman 46, long face, deep-set hooded eyes, dark hair tied high, medium olive skin with faint freckles",
+      "style": "fine separated dark ash-brown hair-stroke brows, gentle rounded arch"
+    },
+    {
+      "id": "cheongju-men",
+      "subject": "man 28, angular face, wide monolid eyes, slightly wavy side-part black hair, fair skin",
+      "style": "medium-thick straight masculine brows, feathered inner corners and neatly tapered tails"
+    },
+    {
+      "id": "cheongju-powder",
+      "subject": "woman 31, wide oval face, small double-lidded eyes, warm brown bob hair, golden beige skin",
+      "style": "soft medium brown powder-shaded brows, subtle arch, diffused inner corners"
+    },
+    {
+      "id": "changwon-natural",
+      "subject": "woman 37, heart face, softly downturned hooded eyes, dark shoulder-length hair, fair skin with beauty spot on cheek",
+      "style": "airy thin natural brows, restrained arch, individual dark brown hairs"
+    },
+    {
+      "id": "changwon-combo",
+      "subject": "woman 29, narrow oval face, wide double-lidded eyes, black tied hair, warm ivory skin",
+      "style": "defined but natural combo brows, individual front strokes and muted brown tail shading"
+    },
+    {
+      "id": "changwon-embossed",
+      "subject": "woman 42, soft square face, monolid almond eyes, cropped dark brown hair, medium neutral skin",
+      "style": "feathery ash-brown hair stroke eyebrows, visible skin between delicate curved hairs"
+    },
+    {
+      "id": "changwon-men",
+      "subject": "man 45, rectangular face, deep-set monolid eyes, short salt-and-pepper sidepart, tan skin and faint crow feet",
+      "style": "thick flat dark brows, coarse individual hairs and natural sparse tails"
+    },
+    {
+      "id": "changwon-powder",
+      "subject": "woman 33, round cheeks, slightly upturned almond eyes, chestnut hair tied back, porcelain neutral skin",
+      "style": "soft taupe ombre powder brows with slightly lifted tails and diffused fronts"
+    },
+    {
+      "id": "suwon-natural",
+      "subject": "woman 30, long narrow face, small hooded eyes, blunt black bob tucked behind ears, warm beige skin",
+      "style": "fine straight natural eyebrows, light feathery front, restrained thin tails"
+    },
+    {
+      "id": "suwon-combo",
+      "subject": "woman 40, broad oval face, round double-lidded eyes, dark ash brown tied hair, olive beige skin",
+      "style": "soft combo brows, a low rounded arch with hairlike front and brown tail shading"
+    },
+    {
+      "id": "suwon-embossed",
+      "subject": "woman 26, diamond face, widely spaced monolid eyes, dark black centerpart hair, fair skin and light freckles",
+      "style": "fine subtly curved individual hair-stroke brows, soft ash brown and skin gaps"
+    },
+    {
+      "id": "suwon-men",
+      "subject": "man 32, square face, hooded almond eyes, black buzz cut, warm brown skin with visible pores",
+      "style": "strong but natural straight masculine brows, coarse hairs, gentle downward tail"
+    },
+    {
+      "id": "suwon-powder",
+      "subject": "woman 48, elegant long face, almond double-lidded eyes, warm brown hair tied low, beige skin with fine smile lines",
+      "style": "muted brown powder brows, long soft arch and airy gradient fronts"
+    },
+    {
+      "id": "seoul-natural",
+      "subject": "woman 24, round oval face, wide monolid eyes, black hair fully pulled back, neutral fair skin and tiny nose freckles",
+      "style": "fine airy straight natural brows with slightly uneven individual hairs"
+    },
+    {
+      "id": "seoul-combo",
+      "subject": "woman 34, heart-shaped face, deep-set almond eyes, chestnut slicked-back hair, light tan skin",
+      "style": "warm dark brown combo brows, curved fine strokes at front and softly defined tails"
+    },
+    {
+      "id": "seoul-embossed",
+      "subject": "woman 44, broad face with high cheekbones, slightly hooded narrow eyes, short charcoal bob behind ears, ivory olive skin",
+      "style": "individual dark fine hair-stroke brows, very low arch and long delicate tails"
+    },
+    {
+      "id": "seoul-men",
+      "subject": "man 39, long oval face, small deep-set eyes, black wavy hair brushed back, medium neutral skin and mild stubble",
+      "style": "medium thick softly angled masculine brows, naturally irregular coarse hairs"
+    },
+    {
+      "id": "seoul-powder",
+      "subject": "woman 28, square oval face, round hooded eyes, dark brown hair pulled back, light golden skin",
+      "style": "soft cool-brown powder brows, straight lower line, gentle lift at outer third, diffused fronts"
+    }
+  ]
+}
