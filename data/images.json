@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "width": 1122,
+    "height": 1402
+  },
+  "natural": {
+    "width": 1254,
+    "height": 1254
+  },
+  "combo": {
+    "width": 1254,
+    "height": 1254
+  },
+  "embossed": {
+    "width": 1254,
+    "height": 1254
+  },
+  "men": {
+    "width": 1254,
+    "height": 1254
+  },
+  "powder": {
+    "width": 1254,
+    "height": 1254
+  }
+}
